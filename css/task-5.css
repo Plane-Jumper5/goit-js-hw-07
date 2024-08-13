@@ -4,7 +4,7 @@
   padding: 100px 88px 100px 88px;
   gap: 10px;
   border-radius: 8px;
-  background-color: darkgray;
+  background-color: #ffffff;
 }
 
 .top-text {
@@ -17,7 +17,7 @@
   margin-top: 100px;
   margin-left: 88px;
 }
-button {
+.main-button {
   font-family: Montserrat;
   font-size: 16px;
   font-weight: 500;

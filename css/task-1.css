@@ -1,1 +1,63 @@
+.my-animals {
+  width: 107px;
+  height: 32px;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 32px;
+  letter-spacing: 0.04em;
+  text-align: left;
+  color: #2e2f42;
+}
 
+.animals-blocks {
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.04em;
+  text-align: left;
+  color: #2e2f42;
+}
+.my-products {
+  width: 119px;
+  height: 32px;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 32px;
+  letter-spacing: 0.04em;
+  text-align: left;
+  color: #2e2f42;
+}
+
+.products-blocks {
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.04em;
+  text-align: left;
+  color: #2e2f42;
+}
+
+.my-technologies {
+  width: 175px;
+  height: 32px;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 32px;
+  letter-spacing: 0.04em;
+  text-align: left;
+  color: #2e2f42;
+}
+.technologies-blocks {
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.04em;
+  text-align: left;
+  color: #2e2f42;
+}
