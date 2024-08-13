@@ -1,0 +1,27 @@
+.first-anonymous {
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 32px;
+  letter-spacing: 0.04em;
+}
+.second-anonymous {
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 32px;
+  letter-spacing: 0.04em;
+}
+.input-body {
+  width: 360px;
+  height: 40px;
+  border-radius: 5px;
+}
+#name-input {
+  font-family: Montserrat;
+  padding-left: 16px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.04em;
+}
