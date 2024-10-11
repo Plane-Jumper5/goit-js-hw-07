@@ -24,3 +24,16 @@ const images = [
     alt: "Lighthouse Coast Sea",
   }
 ];
+
+const gallery = document.querySelector('.gallery');
+
+// Створюємо шаблонні рядки для кожного елементу зображення
+const galleryItems = images
+  .map(image => 
+    `<li class="gallery-item">
+      <img src="${image.url}" alt="${image.alt}" class="gallery-img">
+    </li>`
+  )
+  .join('');
+  // Додаємо всі елементи в DOM за одну операцію
+gallery.insertAdjacentHTML('beforeend', galleryItems);
