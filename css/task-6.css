@@ -68,3 +68,13 @@
   margin-left: 16px;
   margin-right: auto;
 }
+
+#boxes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+#boxes div {
+  display: inline-block;
+}
